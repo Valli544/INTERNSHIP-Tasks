@@ -52,7 +52,7 @@ A beautiful, modern, and feature-rich Todo application built with React and styl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dream-task-hub.git
+   git clone (https://github.com/Valli544/INTERNSHIP-Tasks)
    cd dream-task-hub
    ```
 
@@ -195,6 +195,6 @@ If you encounter any issues or have questions:
 
 If you find this project helpful, please consider giving it a ⭐ star on GitHub!
 
-[Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/dream-task-hub/issues) • [Request Feature](https://github.com/yourusername/dream-task-hub/issues)
+[Demo](https://your-demo-link.com) • [Report Bug](https://github.com/Valli544/INTERNSHIP-Tasks) • [Request Feature](https://github.com/Valli544/INTERNSHIP-Tasks)
 
 </div>
